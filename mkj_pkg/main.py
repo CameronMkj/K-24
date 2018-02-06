@@ -1,7 +1,3 @@
-import subprocess
-from pynput.keyboard import Key, Controller
-keyboard = Controller()
-
 def p(string):
     print(string)
 

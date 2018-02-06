@@ -1,1 +1,1 @@
-"C:\Users\White Lotus\Documents\hX\K-24\invis.vbs" "C:\Users\White Lotus\Documents\hX\K-24\autostart.bat"
+"invis.vbs" "autostart.bat"

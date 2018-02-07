@@ -17,7 +17,7 @@ while True:
             print("Listening... ")
             audio = r.listen(source)
             ########REMOVE LATER########
-            BING_KEY = "901ff8bec4f04c679b9680be6ebf10f0"  #API KEY HERE
+            BING_KEY = ""  #API KEY HERE
             word = r.recognize_bing(audio, key=BING_KEY)
             wordS = word.lower()
             print(wordS)
